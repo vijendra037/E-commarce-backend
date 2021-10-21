@@ -2,7 +2,6 @@
 
 Backend API of the ecommerce Tshirt selling website made with Node , Express and MongoDB , the API is made following the proper coding conventions and security measures
 
-<img src="./images/one.svg">
 
 **Folder Strucure**
 
