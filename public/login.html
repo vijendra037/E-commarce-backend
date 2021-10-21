@@ -1,0 +1,53 @@
+<!DOCTYPE HTML>
+<html>
+
+<div style="background-image: url('images.jpeg');">
+
+<head>
+  Love calculator Application
+</head>
+
+<p></p>
+<lable id = "lbl"> Please Enter values </label>
+<p></p>
+
+<form>
+  <label for="fvalue">First Value:</label><br>
+  <input type="text" id="fvalue" name="fvalue"><br>
+  <p></p>
+  <label for="svalue">Second value:</label><br>
+  <input type="text" id="svalue" name="svalue">
+</form>
+
+<p>
+
+
+
+</p>
+
+
+<script>
+  console.log(process.env.DOMAIN_NAME)
+  function pageRedirect() {
+    window.location.href = "http://localhost:4400/api/calculate_love";
+  }      
+</script> 
+</head>
+<body>
+  <button type="button" onclick="pageRedirect()">Calculate your love</button>
+
+
+
+
+</div>
+
+<body>
+
+  <script src="script.js" ></script>
+
+
+
+
+</body>
+
+</html>
