@@ -1,4 +1,4 @@
-# Tshirt Selling website API :tada: :rocket:
+# E-commarce :tada: :rocket:
 
 Backend API of the ecommerce Tshirt selling website made with Node , Express and MongoDB , the API is made following the proper coding conventions and security measures
 
